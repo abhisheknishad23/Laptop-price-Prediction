@@ -38,8 +38,10 @@ Tried multiple regression algorithms (Linear Regression, Ridge, Decision Tree, R
 
 ---
 
+`Thank You`
+
 ## 🏃‍♂️ How to Run Locally
 
 1. **Clone the repository:**
    ```bash
-   
+   https://github.com/abhisheknishad23/Laptop-price-Prediction.git
